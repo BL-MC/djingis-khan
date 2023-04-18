@@ -1,6 +1,6 @@
 # Site settings
-title: Blinky-Lite
-email: info@bl-mc
+title: Djingis Khan
+email: styrelsen@djingis.se
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

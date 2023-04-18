@@ -333,10 +333,10 @@ module.exports = {
          */
         tours: false,
         page: {
-            title: "Blinky-Lite Tutorial"
+            title: "Djingis Khan"
         },
         header: {
-            title: "Blinky-Lite Tutorial"
+            title: "Djingis Khan"
          },
     
 
